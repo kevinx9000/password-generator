@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Karla:wght@400;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1C1C1C;
+    color: white;
+}
+
+.component {
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    padding-top: 115px;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+h1 {
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+span.green-text {
+    color: #4ADF86;
+}
+
+p.subtitle {
+    color: #D5D4D8;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+button {
+    background-color: #10B981;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    color: white;
+    margin-bottom: 35px;
+    padding: 9px 17px 9px 15px;
+}
+
+hr {
+    border: 1px solid #2F3E53;
+    margin-bottom: 35px;
+}
+
+.pw-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pw-box {
+    width: 211px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background-color: #273549;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #55F991;
+}
