@@ -2,6 +2,8 @@
 
 This project is from the Password Generator challenge in Module 3 of the Scrimba Frontend Developer Career Path.
 
+*Kevin H.*
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
